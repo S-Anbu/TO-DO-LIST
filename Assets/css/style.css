@@ -107,25 +107,13 @@ ul li span:hover {
 
     input {
         width: 200px;
-        padding: 5px 10px;
-        font-size: 12px;
-
-
+        padding: 8px 10px;
+        font-size: 14px;
     }
     button {
-        border: none;
-        outline: none;
-        background: orangered;
-        padding: 5px 20px;
-        color: white;
-        font-size: 12px;
-        cursor: pointer;
-        margin-left: 5px;
-        border-radius: 40px;
-    
+        padding: 8px 20px;
+        font-size: 14px;    
     }
-    
-
     #list-container {
         width: 200px;
     }
